@@ -10,3 +10,9 @@ Services - Casos de uso - Regras de negocio. Por sua vez tambem não pega dados 
 Repositories - Busca do Dados para o Services.
 
 Data - DbComtext - ORM - Ligação com as tabelas dos DB.
+
+
+### Para instalação do Postegres v18 
+Não acompanha no setup de instalação o Npgsql
+
+Instale: PS: Install-Package Npgsql ou Bash: dotnet add package Npgsql
