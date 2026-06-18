@@ -31,3 +31,9 @@ E:\Estudos\Dev\Projetos\TarefasAPI\obj\Debug\net10.0\refint\TarefasAPI.dll
 E:\Estudos\Dev\Projetos\TarefasAPI\obj\Debug\net10.0\TarefasAPI.pdb
 E:\Estudos\Dev\Projetos\TarefasAPI\obj\Debug\net10.0\TarefasAPI.genruntimeconfig.cache
 E:\Estudos\Dev\Projetos\TarefasAPI\obj\Debug\net10.0\ref\TarefasAPI.dll
+E:\Estudos\Dev\Projetos\TarefasAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Estudos\Dev\Projetos\TarefasAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Estudos\Dev\Projetos\TarefasAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Estudos\Dev\Projetos\TarefasAPI\bin\Debug\net10.0\Npgsql.dll
+E:\Estudos\Dev\Projetos\TarefasAPI\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Estudos\Dev\Projetos\TarefasAPI\obj\Debug\net10.0\TarefasAPI.sourcelink.json
