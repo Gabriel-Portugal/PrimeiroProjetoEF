@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddOpenApi();
 builder.Services.AddControllers();
 
-string? stringDeConexao = builder.Configuration.GetConnectionString("stringConexaoBanco");
+string? stringDeConexao = builder.Configuration.GetConnectionString("stringConexaoPostgres");
 
 if (stringDeConexao is null)
 {
